@@ -4,4 +4,6 @@ re-learn old lessons about nodejs
 * Basic routing
 
 ## run 
+```
 npm run dev
+```
