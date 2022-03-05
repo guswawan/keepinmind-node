@@ -1,5 +1,7 @@
 # keepinmind-node
-re-learn about old lessons
+re-learn old lessons about nodejs
+* Module exports
+* Basic routing
 
 ## run 
 npm run dev
