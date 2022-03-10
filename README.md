@@ -1,9 +1,14 @@
 # keepinmind-node
 re-learn old lessons about nodejs
+
+### Contents
 * Module exports
 * Basic routing
 
-## run 
+### Tools
+* nodemon
+
+### run project
 ```
 npm run dev
 ```
