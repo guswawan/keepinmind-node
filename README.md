@@ -7,6 +7,7 @@ re-learn old lessons about nodejs
 
 ### Tools
 * nodemon
+* faker
 
 ### run project
 ```
