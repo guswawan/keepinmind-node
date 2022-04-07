@@ -5,7 +5,7 @@ re-learn old lessons about nodejs
 * Module exports
 * Basic routing
 
-### Tools
+### Packages
 * nodemon
 * faker
 
